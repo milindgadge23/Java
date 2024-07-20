@@ -7,7 +7,7 @@ public class Anagram {
 
 	public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); // beautiful code//
 		
 		System.out.println("Enter String 1");
 		
